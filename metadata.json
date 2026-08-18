@@ -1,0 +1,8 @@
+{
+  "name": "Remix Portal Kurmod CKPS 2026 - Pusbangkom ACP",
+  "description": "Portal Kurikulum, Modul CKPS, dan Sebaran Bapekom 2026 - Pusbangkom ACP Kementerian Pekerjaan Umum",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
